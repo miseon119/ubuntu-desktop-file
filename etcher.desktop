@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=X.Y
+Name=etcher
+Comment=for writting micro SD card
+Exec=/home/balena-etcher-electron-1.5.121-linux-x64/balenaEtcher-1.5.121-x64.AppImage
+Icon=/home/balena-etcher-electron-1.5.121-linux-x64/Etcher-icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
